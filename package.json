@@ -7,7 +7,7 @@
   "gypfile": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/balena-io-modules/drivelist.git"
+    "url": "git://github.com/kidk/drivelist.git"
   },
   "keywords": [
     "disk",
